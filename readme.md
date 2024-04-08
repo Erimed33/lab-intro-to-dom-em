@@ -44,12 +44,12 @@ To complete this lab, you will need to create and update a number of elements us
 </article>
 ```
 
-- [ ] Move the first article from inside the `section.posts` element to become the second article and move the second article so that it is the first article.
+- [x ] Move the first article from inside the `section.posts` element to become the second article and move the second article so that it is the first article.
 
-- [ ] Remove the "All Posts" link from the header.
-- [ ] Remove the `span` element that contains the "Read Time" in the featured post. The featured post is the first post on the page.
-- [ ] Remove the last post from the page, titled "Stop Planning".
-- [ ] Remove all titles from all non-featured posts.
+- [ x] Remove the "All Posts" link from the header.
+- [x ] Remove the `span` element that contains the "Read Time" in the featured post. The featured post is the first post on the page.
+- [ x] Remove the last post from the page, titled "Stop Planning".
+- [ x] Remove all titles from all non-featured posts.
 
 ### Reference Final Appearance
 
